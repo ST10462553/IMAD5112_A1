@@ -26,8 +26,8 @@
 ## Issues and pointers to take note of(work in progress):
 ## Please take note that this assignment is still in progress and I am still making it a point to perfect this assignment. With that being said I would like to give out a few pointers (regarding issues you may run into):
 
-*The program may crash upon entering due to some syntax errors ( specifically overload errors) that I have run into.
-*The button functionality process is still in progress and will be adressed once the issue is handled.
+* The program may crash upon entering due to some syntax errors ( specifically overload errors) that I have run into.
+* The button functionality process is still in progress and will be adressed once the issue is handled.
 * I have created a function on the application that will enable a user to tap a vector art image (in the app) and automatically be redirected to wikipedia. - This was to further give light and educate users of the figure in the picture.( namely, Amy Winehouse).
   ## Image(s) appearing in the app:
 <img width="443" alt="amy2" src="https://github.com/ST10462553/IMAD5112_A1/assets/167323821/f8efadd8-c520-454d-b50d-0d1bf40ed333"> (Amy Winehouse) -- Redirects to Wikipedia once pressed.
