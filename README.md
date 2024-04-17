@@ -30,5 +30,5 @@ This assignment was built to test the knowledge of students and to make an attem
 *The button functionality process is still in progress and will be adressed once the issue is handled.
 * I have created a function on the application that will enable a user to tap a vector art image (in the app) and automatically be redirected to wikipedia. - This was to further give light and educate users of the figure in the picture.( namely, Amy Winehouse).
   ## Image(s) appearing in the app:
-<img width="443" alt="amy2" src="https://github.com/ST10462553/IMAD5112_A1/assets/167323821/f8efadd8-c520-454d-b50d-0d1bf40ed333"> -- Redirects to Wikipedia once pressed.
-<img width="276" alt="nelsonM" src="https://github.com/ST10462553/IMAD5112_A1/assets/167323821/6167c876-b441-464c-b7ed-4aaf4b5f2e87"> -- static image(No action once pressed).
+<img width="443" alt="amy2" src="https://github.com/ST10462553/IMAD5112_A1/assets/167323821/f8efadd8-c520-454d-b50d-0d1bf40ed333"> (Amy Winehouse) -- Redirects to Wikipedia once pressed.
+<img width="276" alt="nelsonM" src="https://github.com/ST10462553/IMAD5112_A1/assets/167323821/6167c876-b441-464c-b7ed-4aaf4b5f2e87"> (Nelson Mandela) -- static image(No action once pressed).
