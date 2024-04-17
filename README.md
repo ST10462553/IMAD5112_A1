@@ -16,9 +16,9 @@ This assignment was built to test the knowledge of students and to make an attem
 </a>
 
 ## Android Studio#4 - Get text input with EditText by Random code
-< a href>"https://youtu.be/Eiw5kRObUS0?si=j207s_LRDPES221X"
+< a href>="https://youtu.be/Eiw5kRObUS0?si=j207s_LRDPES221X"
 </a>
 
 ## How to get user input, Show toast message and change Image on button Click in Android Studio:
-<a href>"youtu.be/dll4jOKrLA8?si=e6C8R3TIFE97m4Jb"
+<a href>="youtu.be/dll4jOKrLA8?si=e6C8R3TIFE97m4Jb"
 </a> 
